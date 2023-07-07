@@ -17,6 +17,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/thiago-barcellos-1a1b93248/" target="_blank">
  
-  ![LinkedIn]
+  [LinkedIn]
 
 </div>
